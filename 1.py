@@ -7,3 +7,4 @@ for i in range(1,100):
 print(b)
 print(c)
         
+#print(this is the final output of the programme)
